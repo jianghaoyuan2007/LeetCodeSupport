@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="leetcodesupport",
-    version="0.1.2",
+    version="0.1.3",
     author="Stephen Chiang",
     author_email="stephenchiang@yahoo.com",
     description="The Python support for LeetCode",

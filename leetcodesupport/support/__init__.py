@@ -1,1 +1,2 @@
 from .binarytreecreation import create_binary_tree
+from .binarytreecreation import string_to_tree_node
